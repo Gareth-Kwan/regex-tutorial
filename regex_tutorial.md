@@ -7,10 +7,9 @@ A regular expression is a pattern used to match character combinations in text. 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Basic email matching](#basicemailmatching)
-- [Matching the local part](#matchingthelocalpart)
-- [Matching the domain part](#matchingthedomainpart)
-- [Putting it all together](#puttingitalltogether)
+- [Matching the local part](#matching-the-local-part)
+- [Matching the domain part](#matching-the-domain-part)
+- [Putting it all together](#putting-it-all-together)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -26,6 +25,7 @@ The below will be the regex that we shall explore further along this tutorial.
 The local part of an email address can not only contain letters (upper and lower case), digits, and certain special characters (e.g. !, #, $, %, etc.) but can also contain dots (.), however, these cannot be consecutive or appear at the beginning or end of the local part.
 
 Here is a regex that will match a local part:
+
 <img src="https://user-images.githubusercontent.com/108771904/211238792-6d9df6d4-f767-4c12-9477-39b71dffc798.png" width="630" height="170"/>
 
 This regex uses the following elements:
@@ -40,6 +40,7 @@ Similar to the local part, each label in the domain part can contain letters (up
 The domain part must end with a top-level domain (TLD) such as .com, .net, .org, etc.
 
 Here is a regex that will match a domain part:
+
 <img src="https://user-images.githubusercontent.com/108771904/211238793-7b6e8920-1315-46a0-bd44-43b6aa9cccd0.png" width="630" height="170"/>
 
 This regex uses the following elements:
@@ -65,4 +66,6 @@ Author: Gareth Kwan
 
 Github: [Link Here ](https://github.com/Gareth-Kwan)
 
-Repo: [Link Here ](https://github.com/Gareth-Kwan/regex-tutorial)
+Github Repo: [Link Here ](https://github.com/Gareth-Kwan/regex-tutorial)
+
+Github Gist: [Link Here ](https://gist.github.com/Gareth-Kwan/fed53d9f71c772e3cdb07ff89f58946e)
