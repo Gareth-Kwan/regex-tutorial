@@ -72,6 +72,7 @@ I hope you found this tutorial helpful and please see below for my contact infor
 ## Author
 
 Author: Gareth Kwan
+About me: I am a junior web developer with a passion for coding and a fun-loving personality. I am a quick learner and always eager to take on new challenges. With his positive attitude and great sense of humor, he brings a fresh perspective to every project he works on.
 
 Github: [Link Here ](https://github.com/Gareth-Kwan)
 
