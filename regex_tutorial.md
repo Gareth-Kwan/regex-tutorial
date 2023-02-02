@@ -71,11 +71,12 @@ I hope you found this tutorial helpful and please see below for my contact infor
 
 ## Author
 
-Author: Gareth Kwan
-About me: I am a junior web developer with a passion for coding and a fun-loving personality. I am a quick learner and always eager to take on new challenges. With his positive attitude and great sense of humor, he brings a fresh perspective to every project he works on.
+**Author**: Gareth Kwan
 
-Github: [Link Here ](https://github.com/Gareth-Kwan)
+**About me**: I am a junior web developer with a passion for coding and a fun-loving personality. I am a quick learner and always eager to take on new challenges. With his positive attitude and great sense of humor, he brings a fresh perspective to every project he works on.
 
-Github Repo: [Link Here ](https://github.com/Gareth-Kwan/regex-tutorial)
+**Github**: [Link Here ](https://github.com/Gareth-Kwan)
 
-Github Gist: [Link Here ](https://gist.github.com/Gareth-Kwan/fed53d9f71c772e3cdb07ff89f58946e)
+**Github Repo**: [Link Here ](https://github.com/Gareth-Kwan/regex-tutorial)
+
+**Github Gist**: [Link Here ](https://gist.github.com/Gareth-Kwan/fed53d9f71c772e3cdb07ff89f58946e)
